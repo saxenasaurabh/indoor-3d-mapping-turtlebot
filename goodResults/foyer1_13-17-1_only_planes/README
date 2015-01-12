@@ -1,0 +1,2 @@
+./main -minps 150 -nordw 0.1 -disth 0.09 -iter 100 -nerad 0.08 -mincs 200 -ctol 0.07 -histcomp 3 -icpiter 0 -leaf 0.04 -lferad 0.1 -saciter 50 -sacmnsd 0.08 -prefix ../datasets/Foyer1/sample_ -start 13 -end 17 -step 1 -mlsrad 0.05 -mlspol 0 -planeth 5 -zlimit 4.0 -coeffwt 0.7 -anchors 1 -useplanes 1 -useclusters 0 -mls 0 -saccycles 1 -maxdist 0.1 -saccw 0.0 -kdrad 0.1 -deltar 5 -deltag 5 -deltab 5
+

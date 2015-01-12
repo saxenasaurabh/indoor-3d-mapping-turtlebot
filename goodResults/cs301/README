@@ -1,0 +1,2 @@
+./mainGUI -minps 100 -nordw 0.5 -disth 0.09 -iter 100 -nerad 0.11 -mincs 100 -ctol 0.07 -histcomp 3 -icpiter 0 -leaf 0.04 -lferad 0.1 -saciter 10 -sacmnsd 0.08 -mlsrad 0.1 -mlspol 0 -planeth 2.5 -zlimit 4.0 -coeffwt 2.0 -maxdist 0.05 -saccycles 1 -saccw 0.0 -deltar 5 -deltag 5 -deltab 5 -kdrad 0.2 -clusterth 2 -anchors 1 -useodom 1 -useplanes 1 -useclusters 1
+
